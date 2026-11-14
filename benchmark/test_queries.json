@@ -1,0 +1,36 @@
+[
+  {
+    "id": "q17",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "filter": {
+      "section": "fiscal_pressures"
+    }
+  },
+  {
+    "id": "q21",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "filter": null
+  },
+  {
+    "id": "q22",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "filter": {
+      "section": "food_import"
+    }
+  }
+]

@@ -3,7 +3,11 @@
 ## Dữ liệu và pipeline
 - Chủ đề, nguồn/quyền, số trang và quy tắc tính trang:
 - Chuẩn hóa, lỗi và giới hạn:
-- Embedding model/provider/version/số chiều, vector store/version, metric, lệnh chạy và chi phí:
+- Embedding model/provider/version/số chiều, vector store/version, metric, lệnh chạy và chi phí: 
+    openai/text-embedding-3-small |
+    Provider: OpenRouter | Số chiều: 1536 | Vector
+    store: PostgreSQL 16 + pgvector | Metric: cosine |
+    Chi phí: ~$0.001
 - Metadata bắt buộc, trường lọc bổ sung, nguồn giá trị và lý do chọn:
 
 ## Cấu hình và benchmark

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "direct",
+    "question": "What was documented in the International Debt Report 2025 regarding external debt burdens?",
+    "expected_answer": "It documented the scale of external debt burdens and their links to economic growth and vulnerability.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 75,
+    "evidence_quote": "International Debt Report 2025 documented the scale of external debt burdens and their links to economic growth and vulnerability",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "conditional",
+    "question": "How are external shocks absorbed differently in economies with flexible versus fixed exchange rate regimes?",
+    "expected_answer": "In flexible regimes, shocks are partly absorbed through currency movements, while in fixed regimes, pressure on the exchange rate can be cushioned using foreign reserves.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 77,
+    "evidence_quote": "in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves.",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "direct",
+    "question": "What percentage of GDP did trade openness reach across low- and middle-income countries in 2025?",
+    "expected_answer": "Trade openness increased to about 48 percent of GDP in 2025, up from about 44 percent in the mid-2010s.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 78,
+    "evidence_quote": "trade openness, measured as the sum of exports and imports as a share of GDP, increased to about 48 percent in 2025, up from about 44 percent in the mid-2010s",
+    "filter": null
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "Why does having external debt predominantly in foreign currencies increase economic vulnerability during global shocks?",
+    "expected_answer": "Currency depreciation triggered by external shocks drives up debt service burdens and accelerates domestic inflation.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 78,
+    "evidence_quote": "where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "direct",
+    "question": "What was the total volume of external debt stocks in LMICs by the end of 2025, and how much had it risen since 2015?",
+    "expected_answer": "External debt stocks rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 79,
+    "evidence_quote": "external debt stocks in LMICs rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015.",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "direct",
+    "question": "Why was China relatively insulated from the major energy supply shock of 2026 compared to other commodity-importing LMICs?",
+    "expected_answer": "Partly because of its large petroleum reserves.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 80,
+    "evidence_quote": "Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In the transmission of external shocks, to what level did headline inflation rise in commodity-importing LMICs by June 2026 following the Middle East conflict?",
+    "expected_answer": "Headline inflation rose to 3.6 percent in June 2026, up from 2.6 percent before the conflict.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 80,
+    "evidence_quote": "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent",
+    "filter": {
+      "section": "transmission_shocks"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "conditional",
+    "question": "Why do external shocks tend to have larger and more persistent impacts in low-income and fragile economies?",
+    "expected_answer": "Because their domestic financial markets tend to be shallower than in other low- and middle-income countries.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 82,
+    "evidence_quote": "In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "How do stabilization funds help commodity-exporting nations cope with fiscal procyclicality?",
+    "expected_answer": "By saving excess revenues during commodity booms and deploying them when prices and revenues collapse.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 83,
+    "evidence_quote": "stabilization funds, especially in commodity-exporting LMICs, can mitigate the procyclicality of fiscal policy by saving revenues during booms and deploying them when commodity prices and revenues collapse.",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "direct",
+    "question": "What proportion of government revenues was absorbed by domestic debt service in IDA countries by 2025?",
+    "expected_answer": "The average domestic debt service-to-revenues ratio more than trebled, reaching almost 30 percent by 2025.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 85,
+    "evidence_quote": "whereas average external debt service underwent a U-shaped trajectory to end up at over 17 percent of revenues by 2025, the average domestic debt service-to-revenues ratio more than trebled, reaching almost 30 percent by 2025",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "In the analysis of debt sustainability and fiscal pressures, what were the average gross financing needs (GFNs) of IDA countries as a share of GDP in 2024 and 2025?",
+    "expected_answer": "Approximately 8.2 percent of GDP in 2024, before rising to 8.7 percent in 2025.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 86,
+    "evidence_quote": "GFNs subsequently moderated but remained well above their prepandemic average, at approximately 8.2 percent of GDP in 2024, before rising to 8.7 percent in 2025.",
+    "filter": {
+      "section": "fiscal_pressures"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "paraphrase",
+    "question": "How is the debt-stabilization primary deficit gap (ΔDSPD) calculated?",
+    "expected_answer": "It is calculated as the difference between the actual primary deficit and the debt-stabilizing primary deficit that would keep the debt-to-GDP ratio constant.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 87,
+    "evidence_quote": "These gaps, denoted as ΔDSPD, are calculated as the difference between the actual primary deficit and the debt-stabilizing primary deficit, indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "conditional",
+    "question": "Why do domestic banks in IDA countries hold a significantly higher share of sovereign assets than banks in IBRD countries?",
+    "expected_answer": "Because IDA countries have less developed and diversified private sectors and fewer investment alternatives, especially during financial stress.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 90,
+    "evidence_quote": "This higher exposure reflects less developed and less diversified private sectors in many IDA countries, as well as fewer investment options as compared to IBRD markets. Domestic banks may therefore have few alternatives to government securities, particularly during periods of financial stress.",
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "direct",
+    "question": "What three interconnected priorities are highlighted to address limited fiscal buffers and high debt vulnerabilities?",
+    "expected_answer": "Revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 92,
+    "evidence_quote": "The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions.",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "Regarding food import exposure, how does the share of food in merchandise imports relate to per capita income in LMICs?",
+    "expected_answer": "The share of food in merchandise imports generally declines as per capita income rises, whereas economies with higher external debt burdens relative to exports have higher food import shares.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 96,
+    "evidence_quote": "the share of food in merchandise imports generally declines as income per capita rises (figure 2.13, panel a). By contrast, economies with larger external debt burdens relative to exports also tend to have higher food import shares",
+    "filter": {
+      "section": "food_import"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "dev",
+    "type": "direct",
+    "question": "For which food commodity groups are higher external debt burdens associated with greater import source diversity rather than lower diversity?",
+    "expected_answer": "Oils and fats, and legumes, nuts, and seeds.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 100,
+    "evidence_quote": "By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds.",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "direct",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "expected_answer": "Production shortfalls in major supplier countries, export restrictions, or supply chain disruptions.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 77,
+    "evidence_quote": "Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions",
+    "filter": null
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "expected_answer": "They directly reduce export revenues and profits in commodity sectors, while indirectly deteriorating fiscal balances, terms of trade, and current account positions.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 82,
+    "evidence_quote": "Collapses in global commodity prices directly reduce export earnings and profits in the commodity-related sector, reducing domestic demand and activity. Revenue declines cause deterioration of fiscal positions and the debt service mechanism, while also leading to worsening terms of trade and current account balances.",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "direct",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "expected_answer": "The commodity price and inflation surge following the Russian invasion of Ukraine, and the sharp global monetary tightening beginning in 2022.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 86,
+    "evidence_quote": "Subsequent shocks, including the commodity price and inflation surge following the Russian Federation’s invasion of Ukraine, and the sharp global monetary tightening that began in 2022, further contributed to elevated financing needs.",
+    "filter": null
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "expected_answer": "Countries typically waited three to four years before embarking on meaningful fiscal consolidation.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 93,
+    "evidence_quote": "Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal consolidation",
+    "filter": {
+      "section": "fiscal_pressures"
+    }
+  },
+  {
+    "id": "q21",
+    "split": "test",
+    "type": "conditional",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "expected_answer": "Contingency reserves in the annual budget, natural disaster funds with clear usage rules, and state-contingent debt instruments or third-party disaster risk insurance.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 95,
+    "evidence_quote": "Governments can prepare for this tendency by establishing contingency reserves within the annual budget, natural disaster funds with clear rules governing their use and size calibrated to historical experience, and state-contingent debt instruments and other insurance mechanisms that transfer a portion of disaster risk to third parties",
+    "filter": null
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "expected_answer": "Starchy staples, and notably animal-source foods, fruits, and vegetables.",
+    "gold_source_id": "bookdata_01",
+    "gold_page": 100,
+    "evidence_quote": "Higher debt relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components of a healthy diet that together account for a large share of its cost",
+    "filter": {
+      "section": "food_import"
+    }
+  }
+]
