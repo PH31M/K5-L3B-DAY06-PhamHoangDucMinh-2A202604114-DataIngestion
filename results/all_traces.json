@@ -1,0 +1,2738 @@
+[
+  {
+    "question_id": "q01",
+    "question": "What was documented in the International Debt Report 2025 regarding external debt burdens?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 75,
+    "evidence_quote": "International Debt Report 2025 documented the scale of external debt burdens and their links to economic growth and vulnerability",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p75_c002",
+        "page": 75,
+        "score": 0.763526,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "d high debt levels can amplify their economic and development consequences and impair the effectiveness of policy responses. International Debt Report 2025 documented the scale of external debt burden..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p78_c000",
+        "page": 78,
+        "score": 0.712962,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p92_c000",
+        "page": 92,
+        "score": 0.693548,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 68 borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps. Countri..."
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "question": "How are external shocks absorbed differently in economies with flexible versus fixed exchange rate regimes?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p77_c002",
+        "page": 77,
+        "score": 0.665941,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "urrency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves. As discussed later in this chapter, damage from external sho..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p77_c001",
+        "page": 77,
+        "score": 0.641971,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "economies are more vulnerable to shifts in demand among their trading partners. External shocks also tend to spill more forcefully into LMICs with open financial markets, partly reflecting rapid capit..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p82_c002",
+        "page": 82,
+        "score": 0.603231,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "external shocks tends to be larger and more persistent in fragile economies and low-income countries (LICs). In both LICs and economies in fragile, conflict, and violence-affected environments or with..."
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "question": "What percentage of GDP did trade openness reach across low- and middle-income countries in 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "trade openness, measured as the sum of exports and imports as a share of GDP, increased to about 48 percent in 2025, up from about 44 percent in the mid-2010s",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p78_c003",
+        "page": 78,
+        "score": 0.729321,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "re than 60 percent of economies experiencing an increase between Figure 2.3 Trade and Financial Openness in Low- and Middle-Income Countries as a Share of GDP, 2000–25 60 80 100 120 140 30 40 50 60 Pe..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p78_c002",
+        "page": 78,
+        "score": 0.657414,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "th. Despite a recent slowdown in international integration, LMICs have become more exposed to external shocks, while also accumulating external debt. In LMICs, although the pace of trade integration h..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p76_c003",
+        "page": 76,
+        "score": 0.629055,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "ross income groups. In 2025, imports accounted for about 34 percent of GDP in low-income economies, compared with exports of about 24 percent; trade flows were much more balanced in high-income econom..."
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "question": "Why does having external debt predominantly in foreign currencies increase economic vulnerability during global shocks?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p78_c000",
+        "page": 78,
+        "score": 0.700355,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p75_c001",
+        "page": 75,
+        "score": 0.679982,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "al shocks can be more difficult to absorb when governments already face substantial financing needs and limited room to respond. The key vulnerability therefore lies not in exposure to global shocks a..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p92_c000",
+        "page": 92,
+        "score": 0.676676,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 68 borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps. Countri..."
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "question": "What was the total volume of external debt stocks in LMICs by the end of 2025, and how much had it risen since 2015?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 79,
+    "evidence_quote": "external debt stocks in LMICs rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015.",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p79_c001",
+        "page": 79,
+        "score": 0.692691,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "ition, as presented in chapter 1, external debt stocks in LMICs rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015. The nature of external shocks also affects the differ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p78_c000",
+        "page": 78,
+        "score": 0.644371,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p79_c000",
+        "page": 79,
+        "score": 0.640275,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 55 2015–19 and 2020–25. Financial openness, represented by the sum of foreign assets and liabilities as a share of GDP, remained nearly unchanged from the mid-201..."
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "question": "Why was China relatively insulated from the major energy supply shock of 2026 compared to other commodity-importing LMICs?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 80,
+    "evidence_quote": "Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p80_c001",
+        "page": 80,
+        "score": 0.604695,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "also risen, from 2.7 percent according to preconflict February surveys to 3.4 percent in July. Excluding China, which has been relatively insulated from the shock, partly because of its large petroleu..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p79_c003",
+        "page": 79,
+        "score": 0.589362,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": ". In addition, abrupt shifts in trade policies, including the imposition of tariffs or export bans, can restrict access to key commodities. In contrast, commodity exporters tend to be affected more by..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p80_c002",
+        "page": 80,
+        "score": 0.588115,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "une 2026 (excluding China). To ease price pressures, several central banks have raised interest rates. In addition, several commodityimporting LMICs have introduced subsidies in response to higher fue..."
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "question": "In the transmission of external shocks, to what level did headline inflation rise in commodity-importing LMICs by June 2026 following the Middle East conflict?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "transmission_shocks"
+    },
+    "gold_page": 80,
+    "evidence_quote": "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p80_c000",
+        "page": 80,
+        "score": 0.781662,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 56 Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p80_c001",
+        "page": 80,
+        "score": 0.746539,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "also risen, from 2.7 percent according to preconflict February surveys to 3.4 percent in July. Excluding China, which has been relatively insulated from the shock, partly because of its large petroleu..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p80_c002",
+        "page": 80,
+        "score": 0.696804,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "une 2026 (excluding China). To ease price pressures, several central banks have raised interest rates. In addition, several commodityimporting LMICs have introduced subsidies in response to higher fue..."
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "question": "Why do external shocks tend to have larger and more persistent impacts in low-income and fragile economies?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p82_c002",
+        "page": 82,
+        "score": 0.786412,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "external shocks tends to be larger and more persistent in fragile economies and low-income countries (LICs). In both LICs and economies in fragile, conflict, and violence-affected environments or with..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p77_c001",
+        "page": 77,
+        "score": 0.668262,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "economies are more vulnerable to shifts in demand among their trading partners. External shocks also tend to spill more forcefully into LMICs with open financial markets, partly reflecting rapid capit..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p77_c000",
+        "page": 77,
+        "score": 0.632105,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "question": "How do stabilization funds help commodity-exporting nations cope with fiscal procyclicality?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 83,
+    "evidence_quote": "stabilization funds, especially in commodity-exporting LMICs, can mitigate the procyclicality of fiscal policy by saving revenues during booms and deploying them when commodity prices and revenues collapse.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p82_c003",
+        "page": 82,
+        "score": 0.640449,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "by sudden shifts in external conditions. With a weak institutional framework and limited access to financing, these economies tend to implement procyclical fiscal tightening during economic downturns...."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p83_c000",
+        "page": 83,
+        "score": 0.625889,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 59 Robust fiscal policy frameworks can also act as strong policy buffers against external shocks. Fiscal rules help manage revenue volatility and excess spending ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p93_c005",
+        "page": 93,
+        "score": 0.591876,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "re details on external shocks and fiscal consolidation). The implication is clear: fiscal strategies that save windfalls during economic upturns, such as commodity booms, and deploy those savings duri..."
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "question": "What proportion of government revenues was absorbed by domestic debt service in IDA countries by 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 85,
+    "evidence_quote": "whereas average external debt service underwent a U-shaped trajectory to end up at over 17 percent of revenues by 2025, the average domestic debt service-to-revenues ratio more than trebled, reaching almost 30 percent by 2025",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p85_c000",
+        "page": 85,
+        "score": 0.745275,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 61 the composition of IDA countries’ debt burden shifted markedly toward domestic debt; whereas average external debt service underwent a U-shaped trajectory to e..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p85_c004",
+        "page": 85,
+        "score": 0.74421,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2025). Note: Debt service is interest payments plus amortization; revenues exclude grants. The ratio of debt service to revenues is calculated as the sum of debt service (domestic or external) for all..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p85_c002",
+        "page": 85,
+        "score": 0.719594,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": ". Higher debt service burdens have important implications for fiscal space and refinancing needs. A larger share of government revenues must be allocated to interest payments, leaving fewer resources ..."
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "question": "In the analysis of debt sustainability and fiscal pressures, what were the average gross financing needs (GFNs) of IDA countries as a share of GDP in 2024 and 2025?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 86,
+    "evidence_quote": "GFNs subsequently moderated but remained well above their prepandemic average, at approximately 8.2 percent of GDP in 2024, before rising to 8.7 percent in 2025.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p86_c000",
+        "page": 86,
+        "score": 0.693457,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p87_c002",
+        "page": 87,
+        "score": 0.686443,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "s calculation suggests that the continued elevation of GFNs is not primarily the result of a renewed widening of primary deficits. Rather, it reflects the debt stock accumulated following successive s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p85_c001",
+        "page": 85,
+        "score": 0.658142,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2, reducing the resources available for public investment and other policy priorities, and increasing the need to refinance maturing obligations. As discussed in box 2.1, proactive and structured enga..."
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "question": "How is the debt-stabilization primary deficit gap (ΔDSPD) calculated?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 87,
+    "evidence_quote": "These gaps, denoted as ΔDSPD, are calculated as the difference between the actual primary deficit and the debt-stabilizing primary deficit, indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p87_c001",
+        "page": 87,
+        "score": 0.76075,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "Consistent with this pattern, the distribution of debt-stabilization gaps across countries has changed little over the past 15 years (figure 2.9). These gaps, denoted as ΔDSPD, are calculated as the d..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p87_c004",
+        "page": 87,
+        "score": 0.621852,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "ents the 25th (Q1) to 75th (Q3) percentile range, the line inside the box is the median, and the bottom and top whiskers are the 1.5 × IQR from Q1 and Q3, respectively. The larger the ΔDSPD, the large..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p103_c005",
+        "page": 103,
+        "score": 0.601339,
+        "section": "notes_references",
+        "is_hit": false,
+        "text_snippet": "PD, the larger the fiscal adjustment needed in the primary balance to ensure debt stabilization. 3. Based on the International Monetary Fund Sovereign Risk and Debt Sustainability Framework for Market..."
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "question": "Why do domestic banks in IDA countries hold a significantly higher share of sovereign assets than banks in IBRD countries?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 90,
+    "evidence_quote": "This higher exposure reflects less developed and less diversified private sectors in many IDA countries, as well as fewer investment options as compared to IBRD markets. Domestic banks may therefore have few alternatives to government securities, particularly during periods of financial stress.",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p90_c001",
+        "page": 90,
+        "score": 0.755957,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "have (figure 2.11). This higher exposure reflects less developed and less diversified private sectors in many IDA countries, as well as fewer investment options as compared to IBRD markets. Domestic b..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p90_c000",
+        "page": 90,
+        "score": 0.752555,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 66 Domestic creditors in both IDA and International Bank for Reconstruction and Development (IBRD) countries have elevated their exposure to the sovereign over the past ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p91_c000",
+        "page": 91,
+        "score": 0.668581,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 67 Figure 2.12 Shares of Sovereign Assets for Domestic Creditors in IDA Countries, 2000–24 0 10 20 30 40 50 60 70 80 90 100 Percent Central banks (share of assets..."
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "question": "What three interconnected priorities are highlighted to address limited fiscal buffers and high debt vulnerabilities?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 92,
+    "evidence_quote": "The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p92_c002",
+        "page": 92,
+        "score": 0.627115,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "to three interconnected priorities: revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions. Mobilizing revenue and..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p92_c003",
+        "page": 92,
+        "score": 0.593749,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": ". Without this broader institutional underpinning, additional revenue efforts risk being partial, inequitable, or unsustainable, undermining the fiscal resilience they are intended to build. Effective..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p91_c004",
+        "page": 91,
+        "score": 0.574409,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "risks, and potentially crowding out investment. Weak debt management, limited transparency, foreign currency exposure, and contingent liabilities can amplify these pressures. The result is a reinforci..."
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "question": "Regarding food import exposure, how does the share of food in merchandise imports relate to per capita income in LMICs?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 96,
+    "evidence_quote": "the share of food in merchandise imports generally declines as income per capita rises (figure 2.13, panel a). By contrast, economies with larger external debt burdens relative to exports also tend to have higher food import shares",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p96_c000",
+        "page": 96,
+        "score": 0.661602,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p96_c001",
+        "page": 96,
+        "score": 0.632229,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "nd to have higher food import shares (figure 2.13, panel b).5 Both relationships matter for an economy’s capacity to manage food import exposure. Lower-income economies may have less room to absorb in..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p78_c002",
+        "page": 78,
+        "score": 0.598132,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "th. Despite a recent slowdown in international integration, LMICs have become more exposed to external shocks, while also accumulating external debt. In LMICs, although the pace of trade integration h..."
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "question": "For which food commodity groups are higher external debt burdens associated with greater import source diversity rather than lower diversity?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 100,
+    "evidence_quote": "By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds.",
+    "strategy": "strategy_a",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p100_c001",
+        "page": 100,
+        "score": 0.792986,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p100_c000",
+        "page": 100,
+        "score": 0.749034,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 76 with the largest differences for fruits (2.12 versus 1.65) and vegetables (1.99 versus 1.64). Median diversity is similar for starchy staples (1.83 versus 1.88). Anim..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p95_c005",
+        "page": 95,
+        "score": 0.70682,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2025 showed that higher external debt burdens were associated with higher levels of unaffordability of healthy diets across countries (World Bank 2025). This section extends that analysis by examining..."
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p79_c003",
+        "page": 79,
+        "score": 0.653772,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": ". In addition, abrupt shifts in trade policies, including the imposition of tariffs or export bans, can restrict access to key commodities. In contrast, commodity exporters tend to be affected more by..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p76_c002",
+        "page": 76,
+        "score": 0.63586,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "he nature and degree of their external exposure, which shapes how global external shocks affect them. Trade provides an important example. As figure 2.2 shows, global imports and exports of goods and ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p95_c003",
+        "page": 95,
+        "score": 0.630278,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Diet Affordability Food imports are an important channel through which external shocks can affect food and nutrition security. They are particularly relevant as countries face an uncertain external en..."
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "split": "test",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "Collapses in global commodity prices directly reduce export earnings and profits in the commodity-related sector, reducing domestic demand and activity. Revenue declines cause deterioration of fiscal positions and the debt service mechanism, while also leading to worsening terms of trade and current account balances.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p79_c003",
+        "page": 79,
+        "score": 0.759891,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": ". In addition, abrupt shifts in trade policies, including the imposition of tariffs or export bans, can restrict access to key commodities. In contrast, commodity exporters tend to be affected more by..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p92_c006",
+        "page": 92,
+        "score": 0.705454,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "verage, experienced little to no losses. Dependence on commodities for exports and fiscal revenues makes commodityexporting LMICs particularly exposed to swings in commodity prices."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p82_c000",
+        "page": 82,
+        "score": 0.694579,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 58 Global demand shocks affect commodity-exporting LMICs directly and indirectly. Collapses in global commodity prices directly reduce export earnings and profits in the..."
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 86,
+    "evidence_quote": "Subsequent shocks, including the commodity price and inflation surge following the Russian Federation’s invasion of Ukraine, and the sharp global monetary tightening that began in 2022, further contributed to elevated financing needs.",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p88_c002",
+        "page": 88,
+        "score": 0.623369,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "pite these improvements, IDA LIC-DSF countries have generally moved from high to moderate risk rather than returning to their preshock levels. Between 2019 and 2025, there were a total of 37 changes i..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p85_c001",
+        "page": 85,
+        "score": 0.609757,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2, reducing the resources available for public investment and other policy priorities, and increasing the need to refinance maturing obligations. As discussed in box 2.1, proactive and structured enga..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p86_c000",
+        "page": 86,
+        "score": 0.602153,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 93,
+    "evidence_quote": "Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal consolidation",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p93_c002",
+        "page": 93,
+        "score": 0.728554,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "years before embarking on meaningful fiscal consolidation (figure B2.3.2; Di Lorenzo and Lacey 2024). Political and social constraints are particularly binding in the aftermath of a shock, but delay c..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p93_c001",
+        "page": 93,
+        "score": 0.716812,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "is result reflects not only policy choices but also the persistent economic damage caused by the shock and the need for governments to support vulnerable households and economic activity before adjust..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p94_c002",
+        "page": 94,
+        "score": 0.624497,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "age points of GDP below its debt-stabilizing level. Based on 389 consolidation cases. Box 2.3 External Shocks and Fiscal Consolidation (continued)"
+      }
+    ]
+  },
+  {
+    "question_id": "q21",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "split": "test",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 95,
+    "evidence_quote": "Governments can prepare for this tendency by establishing contingency reserves within the annual budget, natural disaster funds with clear rules governing their use and size calibrated to historical experience, and state-contingent debt instruments and other insurance mechanisms that transfer a portion of disaster risk to third parties",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p95_c001",
+        "page": 95,
+        "score": 0.670369,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "erience, and state-contingent debt instruments and other insurance mechanisms that transfer a portion of disaster risk to third parties (Polacek 2018). Well-designed fiscal rules can reinforce these b..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p95_c000",
+        "page": 95,
+        "score": 0.64929,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 71 Establishing credible fiscal institutions and fiscal buffers. When a shock hits, the fiscal impact can be immediate and large, as spending needed to protect vu..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p93_c005",
+        "page": 93,
+        "score": 0.55346,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "re details on external shocks and fiscal consolidation). The implication is clear: fiscal strategies that save windfalls during economic upturns, such as commodity booms, and deploy those savings duri..."
+      }
+    ]
+  },
+  {
+    "question_id": "q22",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 100,
+    "evidence_quote": "Higher debt relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components of a healthy diet that together account for a large share of its cost",
+    "strategy": "strategy_a",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_a_bookdata_01_p100_c001",
+        "page": 100,
+        "score": 0.807988,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_a_bookdata_01_p95_c005",
+        "page": 95,
+        "score": 0.766459,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2025 showed that higher external debt burdens were associated with higher levels of unaffordability of healthy diets across countries (World Bank 2025). This section extends that analysis by examining..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_a_bookdata_01_p96_c000",
+        "page": 96,
+        "score": 0.735587,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      }
+    ]
+  },
+  {
+    "question_id": "q01",
+    "question": "What was documented in the International Debt Report 2025 regarding external debt burdens?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 75,
+    "evidence_quote": "International Debt Report 2025 documented the scale of external debt burdens and their links to economic growth and vulnerability",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p75_b001",
+        "page": 75,
+        "score": 0.741503,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "developments in trade, commodity markets, growth, exchange rates, and tighter global financing conditions all have the potential to weaken external and fiscal positions, and high debt levels can ampli..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.702548,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p85_b000",
+        "page": 85,
+        "score": 0.681334,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 61 the composition of IDA countries’ debt burden shifted markedly toward domestic debt; whereas average external debt service underwent a U-shaped trajectory to e..."
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "question": "How are external shocks absorbed differently in economies with flexible versus fixed exchange rate regimes?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p77_b001",
+        "page": 77,
+        "score": 0.710963,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p82_b001",
+        "page": 82,
+        "score": 0.586797,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "loans. Declines in foreign exchange earnings also lead to currency depreciation, which increases inflationary pressure and living costs. The impact of external shocks tends to be larger and more persi..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.555146,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "question": "What percentage of GDP did trade openness reach across low- and middle-income countries in 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "trade openness, measured as the sum of exports and imports as a share of GDP, increased to about 48 percent in 2025, up from about 44 percent in the mid-2010s",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p78_b001",
+        "page": 78,
+        "score": 0.638719,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth. Despite a recent slowdown in international integrati..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p78_b002",
+        "page": 78,
+        "score": 0.611999,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "20002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025 Trade openness Financial openness (right axis) Sources: Original calculations based on data fro..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p76_b001",
+        "page": 76,
+        "score": 0.606155,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global exte..."
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "question": "Why does having external debt predominantly in foreign currencies increase economic vulnerability during global shocks?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.691703,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p92_b000",
+        "page": 92,
+        "score": 0.688379,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 68 borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps. Countri..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p75_b000",
+        "page": 75,
+        "score": 0.665308,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "51 2. Debt Dynamics: Policy Implications External Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time w..."
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "question": "What was the total volume of external debt stocks in LMICs by the end of 2025, and how much had it risen since 2015?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 79,
+    "evidence_quote": "external debt stocks in LMICs rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p79_b000",
+        "page": 79,
+        "score": 0.713581,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 55 2015–19 and 2020–25. Financial openness, represented by the sum of foreign assets and liabilities as a share of GDP, remained nearly unchanged from the mid-201..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.659097,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p78_b001",
+        "page": 78,
+        "score": 0.619645,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth. Despite a recent slowdown in international integrati..."
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "question": "Why was China relatively insulated from the major energy supply shock of 2026 compared to other commodity-importing LMICs?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 80,
+    "evidence_quote": "Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p80_b000",
+        "page": 80,
+        "score": 0.597304,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 56 Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p79_b002",
+        "page": 79,
+        "score": 0.584706,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "exporters tend to be affected more by adverse global demand shocks, including slowdowns in global activity triggered by major systemic events such as financial crises and pandemic-driven lockdowns, an..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p80_b001",
+        "page": 80,
+        "score": 0.578736,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China). T..."
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "question": "In the transmission of external shocks, to what level did headline inflation rise in commodity-importing LMICs by June 2026 following the Middle East conflict?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "transmission_shocks"
+    },
+    "gold_page": 80,
+    "evidence_quote": "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p80_b000",
+        "page": 80,
+        "score": 0.797824,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 56 Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p80_b001",
+        "page": 80,
+        "score": 0.723041,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China). T..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p82_b003",
+        "page": 82,
+        "score": 0.685018,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "slowed since March 2026, particularly in commodity-importing LMICs, mainly because of the conflict in the Middle East (figure 2.6). Facing a rise in import costs driven by currency depreciation, some ..."
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "question": "Why do external shocks tend to have larger and more persistent impacts in low-income and fragile economies?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p82_b001",
+        "page": 82,
+        "score": 0.676128,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "loans. Declines in foreign exchange earnings also lead to currency depreciation, which increases inflationary pressure and living costs. The impact of external shocks tends to be larger and more persi..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.652048,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p77_b001",
+        "page": 77,
+        "score": 0.592491,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the..."
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "question": "How do stabilization funds help commodity-exporting nations cope with fiscal procyclicality?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 83,
+    "evidence_quote": "stabilization funds, especially in commodity-exporting LMICs, can mitigate the procyclicality of fiscal policy by saving revenues during booms and deploying them when commodity prices and revenues collapse.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p83_b000",
+        "page": 83,
+        "score": 0.635486,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 59 Robust fiscal policy frameworks can also act as strong policy buffers against external shocks. Fiscal rules help manage revenue volatility and excess spending ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p92_b003",
+        "page": 92,
+        "score": 0.633812,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "communicate contingent borrowing plans before crises occur. Conducting fiscal policy over the economic cycle. Economies that ran procyclical spending policies and persistent deficits over time faced e..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p93_b002",
+        "page": 93,
+        "score": 0.619487,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "own historical distribution. For countries facing high borrowing costs and limited market access, these findings underscore the value of early, credible, and growth-conscious corrective action. During..."
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "question": "What proportion of government revenues was absorbed by domestic debt service in IDA countries by 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 85,
+    "evidence_quote": "whereas average external debt service underwent a U-shaped trajectory to end up at over 17 percent of revenues by 2025, the average domestic debt service-to-revenues ratio more than trebled, reaching almost 30 percent by 2025",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.736844,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p85_b000",
+        "page": 85,
+        "score": 0.72785,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 61 the composition of IDA countries’ debt burden shifted markedly toward domestic debt; whereas average external debt service underwent a U-shaped trajectory to e..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p84_b002",
+        "page": 84,
+        "score": 0.684864,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "The accumulation of public debt has been accompanied by a substantial increase in debt service burdens in LMICs over the past 25 years. The median total debt service in countries eligible for Internat..."
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "question": "In the analysis of debt sustainability and fiscal pressures, what were the average gross financing needs (GFNs) of IDA countries as a share of GDP in 2024 and 2025?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 86,
+    "evidence_quote": "GFNs subsequently moderated but remained well above their prepandemic average, at approximately 8.2 percent of GDP in 2024, before rising to 8.7 percent in 2025.",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.741415,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p86_b000",
+        "page": 86,
+        "score": 0.718914,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p87_b001",
+        "page": 87,
+        "score": 0.674178,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.2 This calculation suggests that the conti..."
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "question": "How is the debt-stabilization primary deficit gap (ΔDSPD) calculated?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 87,
+    "evidence_quote": "These gaps, denoted as ΔDSPD, are calculated as the difference between the actual primary deficit and the debt-stabilizing primary deficit, indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p87_b002",
+        "page": 87,
+        "score": 0.672283,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Note: Figure plots the distribution of historical differences between PD and DSPD as a percentage of GDP for the sample of IDA countries over the 2000–25 period. Both PD and DSPD are based on a three-..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p87_b000",
+        "page": 87,
+        "score": 0.601223,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 63 The persistence of high GFNs, despite narrower primary deficits, underscores the role of accumulated debt and higher debt service costs. Notwithstanding notabl..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p87_b001",
+        "page": 87,
+        "score": 0.575554,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.2 This calculation suggests that the conti..."
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "question": "Why do domestic banks in IDA countries hold a significantly higher share of sovereign assets than banks in IBRD countries?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 90,
+    "evidence_quote": "This higher exposure reflects less developed and less diversified private sectors in many IDA countries, as well as fewer investment options as compared to IBRD markets. Domestic banks may therefore have few alternatives to government securities, particularly during periods of financial stress.",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p90_b000",
+        "page": 90,
+        "score": 0.767605,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 66 Domestic creditors in both IDA and International Bank for Reconstruction and Development (IBRD) countries have elevated their exposure to the sovereign over the past ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p91_b000",
+        "page": 91,
+        "score": 0.67391,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 67 Figure 2.12 Shares of Sovereign Assets for Domestic Creditors in IDA Countries, 2000–24 0 10 20 30 40 50 60 70 80 90 100 Percent Central banks (share of assets..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p90_b002",
+        "page": 90,
+        "score": 0.617399,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Share of total assets (%) Sources: Original calculations based on data from the International Monetary Fund’s International Financial Statistics database. Note: Domestic banks’ sovereign assets are th..."
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "question": "What three interconnected priorities are highlighted to address limited fiscal buffers and high debt vulnerabilities?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 92,
+    "evidence_quote": "The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p92_b001",
+        "page": 92,
+        "score": 0.693756,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "the economic damage.4 The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintainin..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p91_b002",
+        "page": 91,
+        "score": 0.584117,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "point to intensifying liquidity pressures even where solvency indicators may appear contained, reinforcing the case for monitoring rollover and liquidity risks alongside conventional debt stock metric..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p95_b000",
+        "page": 95,
+        "score": 0.571093,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 71 Establishing credible fiscal institutions and fiscal buffers. When a shock hits, the fiscal impact can be immediate and large, as spending needed to protect vu..."
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "question": "Regarding food import exposure, how does the share of food in merchandise imports relate to per capita income in LMICs?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 96,
+    "evidence_quote": "the share of food in merchandise imports generally declines as income per capita rises (figure 2.13, panel a). By contrast, economies with larger external debt burdens relative to exports also tend to have higher food import shares",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p96_b000",
+        "page": 96,
+        "score": 0.679135,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p96_b003",
+        "page": 96,
+        "score": 0.588167,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "imports account for at least 30 percent of domestic supply in a given food group. The figure intends to identify the coexistence of these two sources of vulnerability, rather than to assess whether hi..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p96_b001",
+        "page": 96,
+        "score": 0.587743,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "large relative to export earnings. During external shocks, higher import costs can therefore coincide with weaker economic and external buffers; export earnings may also decline, further increasing pr..."
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "question": "For which food commodity groups are higher external debt burdens associated with greater import source diversity rather than lower diversity?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 100,
+    "evidence_quote": "By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds.",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p100_b001",
+        "page": 100,
+        "score": 0.773428,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "cost (figure 2.15). By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds. Figure 2.15 Import Source Diversity and Ex..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p100_b000",
+        "page": 100,
+        "score": 0.748193,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 76 with the largest differences for fruits (2.12 versus 1.65) and vegetables (1.99 versus 1.64). Median diversity is similar for starchy staples (1.83 versus 1.88). Anim..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p101_b001",
+        "page": 101,
+        "score": 0.720327,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "higher values indicate greater diversification, whereas lower values indicate greater concentration. Each panel includes 83 economies. The vertical dashed line marks external debt stocks of 150 percen..."
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p76_b001",
+        "page": 76,
+        "score": 0.643188,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global exte..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.612822,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p79_b001",
+        "page": 79,
+        "score": 0.612425,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "of energy, food, and other commodities—and rapid increases in their prices, which tend to be caused by wars and conflicts as well as extreme weatherrelated events—have a larger impact on commodity imp..."
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "split": "test",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "Collapses in global commodity prices directly reduce export earnings and profits in the commodity-related sector, reducing domestic demand and activity. Revenue declines cause deterioration of fiscal positions and the debt service mechanism, while also leading to worsening terms of trade and current account balances.",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p79_b002",
+        "page": 79,
+        "score": 0.79088,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "exporters tend to be affected more by adverse global demand shocks, including slowdowns in global activity triggered by major systemic events such as financial crises and pandemic-driven lockdowns, an..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p82_b000",
+        "page": 82,
+        "score": 0.688323,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 58 Global demand shocks affect commodity-exporting LMICs directly and indirectly. Collapses in global commodity prices directly reduce export earnings and profits in the..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p81_b001",
+        "page": 81,
+        "score": 0.674858,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "LMICs with flexible or adjustable exchange rate regimes, currencies depreciated by about 1.7 percent between January and July 2026 (figure 2.5), on average. In contrast, currencies in commodity-export..."
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 86,
+    "evidence_quote": "Subsequent shocks, including the commodity price and inflation surge following the Russian Federation’s invasion of Ukraine, and the sharp global monetary tightening that began in 2022, further contributed to elevated financing needs.",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.646211,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p88_b001",
+        "page": 88,
+        "score": 0.634273,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "at low or moderate risk of overall sovereign stress,3 although vulnerabilities remain uneven, and debt levels are generally above prepandemic levels. Despite these improvements, IDA LIC-DSF countries ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p86_b000",
+        "page": 86,
+        "score": 0.620848,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 93,
+    "evidence_quote": "Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal consolidation",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p93_b001",
+        "page": 93,
+        "score": 0.74187,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "which carries compounding costs. Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal c..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p93_b000",
+        "page": 93,
+        "score": 0.644697,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 69 Box 2.3 External Shocks and Fiscal Consolidation Fiscal consolidation following a major external shock is particularly difficult and less likely to preserve gr..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p94_b001",
+        "page": 94,
+        "score": 0.621082,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Source: Di Lorenzo and Lacey 2024. Note: Unsustainable debt identified as a primary balance lying at least 2 percentage points of GDP below its debt-stabilizing level. Based on 389 consolidation cases..."
+      }
+    ]
+  },
+  {
+    "question_id": "q21",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "split": "test",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 95,
+    "evidence_quote": "Governments can prepare for this tendency by establishing contingency reserves within the annual budget, natural disaster funds with clear rules governing their use and size calibrated to historical experience, and state-contingent debt instruments and other insurance mechanisms that transfer a portion of disaster risk to third parties",
+    "strategy": "strategy_b",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p95_b000",
+        "page": 95,
+        "score": 0.696322,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 71 Establishing credible fiscal institutions and fiscal buffers. When a shock hits, the fiscal impact can be immediate and large, as spending needed to protect vu..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p103_b003",
+        "page": 103,
+        "score": 0.538936,
+        "section": "notes_references",
+        "is_hit": false,
+        "text_snippet": "debt stabilization. 3. Based on the International Monetary Fund Sovereign Risk and Debt Sustainability Framework for Market Access Countries, https://www.imf.org/en/publications/dsa/sovereign-risk-and..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p92_b001",
+        "page": 92,
+        "score": 0.53511,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "the economic damage.4 The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintainin..."
+      }
+    ]
+  },
+  {
+    "question_id": "q22",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 100,
+    "evidence_quote": "Higher debt relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components of a healthy diet that together account for a large share of its cost",
+    "strategy": "strategy_b",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_b_bookdata_01_p95_b003",
+        "page": 95,
+        "score": 0.782235,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "debt burdens were associated with higher levels of unaffordability of healthy diets across countries (World Bank 2025). This section extends that analysis by examining food import exposure as one impo..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_b_bookdata_01_p96_b000",
+        "page": 96,
+        "score": 0.757089,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_b_bookdata_01_p100_b000",
+        "page": 100,
+        "score": 0.739787,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 76 with the largest differences for fruits (2.12 versus 1.65) and vegetables (1.99 versus 1.64). Median diversity is similar for starchy staples (1.83 versus 1.88). Anim..."
+      }
+    ]
+  },
+  {
+    "question_id": "q01",
+    "question": "What was documented in the International Debt Report 2025 regarding external debt burdens?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 75,
+    "evidence_quote": "International Debt Report 2025 documented the scale of external debt burdens and their links to economic growth and vulnerability",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p75_b001",
+        "page": 75,
+        "score": 0.741503,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "developments in trade, commodity markets, growth, exchange rates, and tighter global financing conditions all have the potential to weaken external and fiscal positions, and high debt levels can ampli..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.702548,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p85_b000",
+        "page": 85,
+        "score": 0.681334,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 61 the composition of IDA countries’ debt burden shifted markedly toward domestic debt; whereas average external debt service underwent a U-shaped trajectory to e..."
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "question": "How are external shocks absorbed differently in economies with flexible versus fixed exchange rate regimes?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the exchange rate can be cushioned by using foreign reserves.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p77_b001",
+        "page": 77,
+        "score": 0.710963,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p82_b001",
+        "page": 82,
+        "score": 0.586797,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "loans. Declines in foreign exchange earnings also lead to currency depreciation, which increases inflationary pressure and living costs. The impact of external shocks tends to be larger and more persi..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.555146,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "question": "What percentage of GDP did trade openness reach across low- and middle-income countries in 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "trade openness, measured as the sum of exports and imports as a share of GDP, increased to about 48 percent in 2025, up from about 44 percent in the mid-2010s",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p78_b001",
+        "page": 78,
+        "score": 0.638719,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth. Despite a recent slowdown in international integrati..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p78_b002",
+        "page": 78,
+        "score": 0.611999,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "20002001200220032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025 Trade openness Financial openness (right axis) Sources: Original calculations based on data fro..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p76_b001",
+        "page": 76,
+        "score": 0.606155,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global exte..."
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "question": "Why does having external debt predominantly in foreign currencies increase economic vulnerability during global shocks?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 78,
+    "evidence_quote": "where external debt tends to be denominated in foreign currencies, economic vulnerabilities can increase when external shocks lead to currency depreciation, causing an increase in debt service burdens and higher inflation.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.691703,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p92_b000",
+        "page": 92,
+        "score": 0.688379,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 68 borrowing increases exposure to exchange rate and refinancing shocks. At the same time, high debt limits countries’ ability to borrow to close financing gaps. Countri..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p75_b000",
+        "page": 75,
+        "score": 0.665308,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "51 2. Debt Dynamics: Policy Implications External Debt, External Shocks, and Vulnerability in LMICs Low- and middle-income countries (LMICs) are facing historically high global uncertainty at a time w..."
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "question": "What was the total volume of external debt stocks in LMICs by the end of 2025, and how much had it risen since 2015?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 79,
+    "evidence_quote": "external debt stocks in LMICs rose to $9.4 trillion by the end of 2025, an increase of $3.5 trillion since 2015.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p79_b000",
+        "page": 79,
+        "score": 0.713581,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 55 2015–19 and 2020–25. Financial openness, represented by the sum of foreign assets and liabilities as a share of GDP, remained nearly unchanged from the mid-201..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p78_b000",
+        "page": 78,
+        "score": 0.659097,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 54 External debt is a key amplifier of the transmission of external shocks. Economies with elevated external debt levels, especially short-term debt, are vulnerable to s..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p78_b001",
+        "page": 78,
+        "score": 0.619645,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "of external debt need to raise interest rates to defend their currencies, causing credit crunches in domestic financial markets and slowing growth. Despite a recent slowdown in international integrati..."
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "question": "Why was China relatively insulated from the major energy supply shock of 2026 compared to other commodity-importing LMICs?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 80,
+    "evidence_quote": "Excluding China, which has been relatively insulated from the shock, partly because of its large petroleum reserves, inflation in commodity-importing LMICs increased from 7.0 percent to 8.3 percent between January and June",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p80_b000",
+        "page": 80,
+        "score": 0.597304,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 56 Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p79_b002",
+        "page": 79,
+        "score": 0.584706,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "exporters tend to be affected more by adverse global demand shocks, including slowdowns in global activity triggered by major systemic events such as financial crises and pandemic-driven lockdowns, an..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p80_b001",
+        "page": 80,
+        "score": 0.578736,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China). T..."
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "question": "In the transmission of external shocks, to what level did headline inflation rise in commodity-importing LMICs by June 2026 following the Middle East conflict?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "transmission_shocks"
+    },
+    "gold_page": 80,
+    "evidence_quote": "The conflict in the Middle East involving major energy producers, which began at the end of February 2026, has caused a surge in headline inflation in these countries, to 3.6 percent in June 2026, from the preconflict level of 2.6 percent",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p80_b000",
+        "page": 80,
+        "score": 0.797824,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 56 Inflation in commodity-importing LMICs has increased following a major energy supply shock in 2026. The conflict in the Middle East involving major energy producers, ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p80_b001",
+        "page": 80,
+        "score": 0.723041,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "to 8.3 percent between January and June, with higher inflation expectations for 2026. Energy prices have increased, as well, by 1.1 percentage points between January and June 2026 (excluding China). T..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p82_b003",
+        "page": 82,
+        "score": 0.685018,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "slowed since March 2026, particularly in commodity-importing LMICs, mainly because of the conflict in the Middle East (figure 2.6). Facing a rise in import costs driven by currency depreciation, some ..."
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "question": "Why do external shocks tend to have larger and more persistent impacts in low-income and fragile economies?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "In both LICs and economies in fragile, conflict, and violence-affected environments or with institutional fragility, financial markets tend to be shallower than in other LMICs",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p82_b001",
+        "page": 82,
+        "score": 0.676128,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "loans. Declines in foreign exchange earnings also lead to currency depreciation, which increases inflationary pressure and living costs. The impact of external shocks tends to be larger and more persi..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.652048,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p77_b001",
+        "page": 77,
+        "score": 0.592491,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "example, in economies with flexible exchange rate regimes, the effects of external shocks are partly absorbed through currency movements. In economies with fixed exchange rate regimes, pressure on the..."
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "question": "How do stabilization funds help commodity-exporting nations cope with fiscal procyclicality?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 83,
+    "evidence_quote": "stabilization funds, especially in commodity-exporting LMICs, can mitigate the procyclicality of fiscal policy by saving revenues during booms and deploying them when commodity prices and revenues collapse.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p83_b000",
+        "page": 83,
+        "score": 0.635486,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 59 Robust fiscal policy frameworks can also act as strong policy buffers against external shocks. Fiscal rules help manage revenue volatility and excess spending ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p92_b003",
+        "page": 92,
+        "score": 0.633812,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "communicate contingent borrowing plans before crises occur. Conducting fiscal policy over the economic cycle. Economies that ran procyclical spending policies and persistent deficits over time faced e..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p93_b002",
+        "page": 93,
+        "score": 0.619487,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "own historical distribution. For countries facing high borrowing costs and limited market access, these findings underscore the value of early, credible, and growth-conscious corrective action. During..."
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "question": "What proportion of government revenues was absorbed by domestic debt service in IDA countries by 2025?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 85,
+    "evidence_quote": "whereas average external debt service underwent a U-shaped trajectory to end up at over 17 percent of revenues by 2025, the average domestic debt service-to-revenues ratio more than trebled, reaching almost 30 percent by 2025",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.736844,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p85_b000",
+        "page": 85,
+        "score": 0.72785,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 61 the composition of IDA countries’ debt burden shifted markedly toward domestic debt; whereas average external debt service underwent a U-shaped trajectory to e..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p84_b002",
+        "page": 84,
+        "score": 0.684864,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "The accumulation of public debt has been accompanied by a substantial increase in debt service burdens in LMICs over the past 25 years. The median total debt service in countries eligible for Internat..."
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "question": "In the analysis of debt sustainability and fiscal pressures, what were the average gross financing needs (GFNs) of IDA countries as a share of GDP in 2024 and 2025?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 86,
+    "evidence_quote": "GFNs subsequently moderated but remained well above their prepandemic average, at approximately 8.2 percent of GDP in 2024, before rising to 8.7 percent in 2025.",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.741415,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p86_b000",
+        "page": 86,
+        "score": 0.718914,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p87_b001",
+        "page": 87,
+        "score": 0.674178,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.2 This calculation suggests that the conti..."
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "question": "How is the debt-stabilization primary deficit gap (ΔDSPD) calculated?",
+    "split": "dev",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 87,
+    "evidence_quote": "These gaps, denoted as ΔDSPD, are calculated as the difference between the actual primary deficit and the debt-stabilizing primary deficit, indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p87_b002",
+        "page": 87,
+        "score": 0.672283,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Note: Figure plots the distribution of historical differences between PD and DSPD as a percentage of GDP for the sample of IDA countries over the 2000–25 period. Both PD and DSPD are based on a three-..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p87_b000",
+        "page": 87,
+        "score": 0.601223,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 63 The persistence of high GFNs, despite narrower primary deficits, underscores the role of accumulated debt and higher debt service costs. Notwithstanding notabl..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p87_b001",
+        "page": 87,
+        "score": 0.575554,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "indicating the primary deficit or surplus that would keep the debt-to-GDP ratio unchanged, given the country’s existing debt, borrowing costs, and GDP growth.2 This calculation suggests that the conti..."
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "question": "Why do domestic banks in IDA countries hold a significantly higher share of sovereign assets than banks in IBRD countries?",
+    "split": "dev",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 90,
+    "evidence_quote": "This higher exposure reflects less developed and less diversified private sectors in many IDA countries, as well as fewer investment options as compared to IBRD markets. Domestic banks may therefore have few alternatives to government securities, particularly during periods of financial stress.",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p90_b000",
+        "page": 90,
+        "score": 0.767605,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 66 Domestic creditors in both IDA and International Bank for Reconstruction and Development (IBRD) countries have elevated their exposure to the sovereign over the past ..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p91_b000",
+        "page": 91,
+        "score": 0.67391,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 67 Figure 2.12 Shares of Sovereign Assets for Domestic Creditors in IDA Countries, 2000–24 0 10 20 30 40 50 60 70 80 90 100 Percent Central banks (share of assets..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p90_b002",
+        "page": 90,
+        "score": 0.617399,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Share of total assets (%) Sources: Original calculations based on data from the International Monetary Fund’s International Financial Statistics database. Note: Domestic banks’ sovereign assets are th..."
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "question": "What three interconnected priorities are highlighted to address limited fiscal buffers and high debt vulnerabilities?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 92,
+    "evidence_quote": "The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintaining sound debt management, adopting countercyclical fiscal strategies, and investing in fiscal institutions.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p92_b001",
+        "page": 92,
+        "score": 0.693756,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "the economic damage.4 The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintainin..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p91_b002",
+        "page": 91,
+        "score": 0.584117,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "point to intensifying liquidity pressures even where solvency indicators may appear contained, reinforcing the case for monitoring rollover and liquidity risks alongside conventional debt stock metric..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p95_b000",
+        "page": 95,
+        "score": 0.571093,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 71 Establishing credible fiscal institutions and fiscal buffers. When a shock hits, the fiscal impact can be immediate and large, as spending needed to protect vu..."
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "question": "Regarding food import exposure, how does the share of food in merchandise imports relate to per capita income in LMICs?",
+    "split": "dev",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 96,
+    "evidence_quote": "the share of food in merchandise imports generally declines as income per capita rises (figure 2.13, panel a). By contrast, economies with larger external debt burdens relative to exports also tend to have higher food import shares",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p96_b000",
+        "page": 96,
+        "score": 0.679135,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p96_b003",
+        "page": 96,
+        "score": 0.588167,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "imports account for at least 30 percent of domestic supply in a given food group. The figure intends to identify the coexistence of these two sources of vulnerability, rather than to assess whether hi..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p96_b001",
+        "page": 96,
+        "score": 0.587743,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "large relative to export earnings. During external shocks, higher import costs can therefore coincide with weaker economic and external buffers; export earnings may also decline, further increasing pr..."
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "question": "For which food commodity groups are higher external debt burdens associated with greater import source diversity rather than lower diversity?",
+    "split": "dev",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 100,
+    "evidence_quote": "By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds.",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p100_b001",
+        "page": 100,
+        "score": 0.773428,
+        "section": "food_import",
+        "is_hit": true,
+        "text_snippet": "cost (figure 2.15). By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds. Figure 2.15 Import Source Diversity and Ex..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p100_b000",
+        "page": 100,
+        "score": 0.748193,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 76 with the largest differences for fruits (2.12 versus 1.65) and vegetables (1.99 versus 1.64). Median diversity is similar for starchy staples (1.83 versus 1.88). Anim..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p101_b001",
+        "page": 101,
+        "score": 0.720327,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "higher values indicate greater diversification, whereas lower values indicate greater concentration. Each panel includes 83 economies. The vertical dashed line marks external debt stocks of 150 percen..."
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 77,
+    "evidence_quote": "Economies that rely heavily on imports of goods and services for domestic activity are vulnerable to sudden changes in the external environment, such as production shortfalls in major supplier countries, export restrictions, or supply chain disruptions",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p76_b001",
+        "page": 76,
+        "score": 0.643188,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "Elevated uncertainty matters because economies remain closely connected to international markets. Yet countries differ in the nature and degree of their external exposure, which shapes how global exte..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p77_b000",
+        "page": 77,
+        "score": 0.612822,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 53 Transmission of External Shocks External shocks are transmitted to LMICs differently, depending on their structural features. Economies that rely heavily on im..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p79_b001",
+        "page": 79,
+        "score": 0.612425,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "of energy, food, and other commodities—and rapid increases in their prices, which tend to be caused by wars and conflicts as well as extreme weatherrelated events—have a larger impact on commodity imp..."
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "split": "test",
+    "type": "paraphrase",
+    "filter": null,
+    "gold_page": 82,
+    "evidence_quote": "Collapses in global commodity prices directly reduce export earnings and profits in the commodity-related sector, reducing domestic demand and activity. Revenue declines cause deterioration of fiscal positions and the debt service mechanism, while also leading to worsening terms of trade and current account balances.",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p79_b002",
+        "page": 79,
+        "score": 0.79088,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "exporters tend to be affected more by adverse global demand shocks, including slowdowns in global activity triggered by major systemic events such as financial crises and pandemic-driven lockdowns, an..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p82_b000",
+        "page": 82,
+        "score": 0.688323,
+        "section": "transmission_shocks",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 58 Global demand shocks affect commodity-exporting LMICs directly and indirectly. Collapses in global commodity prices directly reduce export earnings and profits in the..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p81_b001",
+        "page": 81,
+        "score": 0.674858,
+        "section": "transmission_shocks",
+        "is_hit": false,
+        "text_snippet": "LMICs with flexible or adjustable exchange rate regimes, currencies depreciated by about 1.7 percent between January and July 2026 (figure 2.5), on average. In contrast, currencies in commodity-export..."
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "split": "test",
+    "type": "direct",
+    "filter": null,
+    "gold_page": 86,
+    "evidence_quote": "Subsequent shocks, including the commodity price and inflation surge following the Russian Federation’s invasion of Ukraine, and the sharp global monetary tightening that began in 2022, further contributed to elevated financing needs.",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p85_b001",
+        "page": 85,
+        "score": 0.646211,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "These developments have contributed to a sustained increase in gross financing needs (GFNs) in IDA countries. Higher debt service burdens have important implications for fiscal space and refinancing n..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p88_b001",
+        "page": 88,
+        "score": 0.634273,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "at low or moderate risk of overall sovereign stress,3 although vulnerabilities remain uneven, and debt levels are generally above prepandemic levels. Despite these improvements, IDA LIC-DSF countries ..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p86_b000",
+        "page": 86,
+        "score": 0.620848,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 62 refinance maturing obligations contributes to elevated GFNs, even when fiscal deficits are narrowing. GFNs in IDA countries averaged about 6 percent of GDP during 201..."
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "fiscal_pressures"
+    },
+    "gold_page": 93,
+    "evidence_quote": "Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal consolidation",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p93_b001",
+        "page": 93,
+        "score": 0.74187,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "which carries compounding costs. Where the primary deficit was significantly larger than what would stabilize debt, countries tended to wait three to four years before embarking on meaningful fiscal c..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p93_b000",
+        "page": 93,
+        "score": 0.644697,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 69 Box 2.3 External Shocks and Fiscal Consolidation Fiscal consolidation following a major external shock is particularly difficult and less likely to preserve gr..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p94_b001",
+        "page": 94,
+        "score": 0.621082,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "Source: Di Lorenzo and Lacey 2024. Note: Unsustainable debt identified as a primary balance lying at least 2 percentage points of GDP below its debt-stabilizing level. Based on 389 consolidation cases..."
+      }
+    ]
+  },
+  {
+    "question_id": "q21",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "split": "test",
+    "type": "conditional",
+    "filter": null,
+    "gold_page": 95,
+    "evidence_quote": "Governments can prepare for this tendency by establishing contingency reserves within the annual budget, natural disaster funds with clear rules governing their use and size calibrated to historical experience, and state-contingent debt instruments and other insurance mechanisms that transfer a portion of disaster risk to third parties",
+    "strategy": "strategy_c",
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p95_b000",
+        "page": 95,
+        "score": 0.696322,
+        "section": "fiscal_pressures",
+        "is_hit": true,
+        "text_snippet": "2. DEBT DyNAmIcs: POLIcy ImPLIcATIONs 71 Establishing credible fiscal institutions and fiscal buffers. When a shock hits, the fiscal impact can be immediate and large, as spending needed to protect vu..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p103_b003",
+        "page": 103,
+        "score": 0.538936,
+        "section": "notes_references",
+        "is_hit": false,
+        "text_snippet": "debt stabilization. 3. Based on the International Monetary Fund Sovereign Risk and Debt Sustainability Framework for Market Access Countries, https://www.imf.org/en/publications/dsa/sovereign-risk-and..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p92_b001",
+        "page": 92,
+        "score": 0.53511,
+        "section": "fiscal_pressures",
+        "is_hit": false,
+        "text_snippet": "the economic damage.4 The interaction of limited fiscal buffers, elevated debt vulnerabilities, and weak policy execution points to three interconnected priorities: revenue mobilization and maintainin..."
+      }
+    ]
+  },
+  {
+    "question_id": "q22",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "split": "test",
+    "type": "metadata_filter",
+    "filter": {
+      "section": "food_import"
+    },
+    "gold_page": 100,
+    "evidence_quote": "Higher debt relative to exports is significantly associated with lower import source diversity for starchy staples and, notably, for animal-source foods, fruits, and vegetables—nutritionally important components of a healthy diet that together account for a large share of its cost",
+    "strategy": "strategy_c",
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "hits": [
+      {
+        "rank": 1,
+        "chunk_id": "strategy_c_bookdata_01_p96_b000",
+        "page": 96,
+        "score": 0.757089,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 72 in healthy diet unaffordability over time, a broader outcome that reflects both food costs and people’s economic resources. Food Import Shares in Poorer Economies Acr..."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "strategy_c_bookdata_01_p100_b000",
+        "page": 100,
+        "score": 0.739787,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "INTERNATIONAL DEBT REPORT 2026 76 with the largest differences for fruits (2.12 versus 1.65) and vegetables (1.99 versus 1.64). Median diversity is similar for starchy staples (1.83 versus 1.88). Anim..."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "strategy_c_bookdata_01_p100_b001",
+        "page": 100,
+        "score": 0.738487,
+        "section": "food_import",
+        "is_hit": false,
+        "text_snippet": "cost (figure 2.15). By contrast, higher debt burdens are associated with greater import source diversity for oils and fats, and for legumes, nuts, and seeds. Figure 2.15 Import Source Diversity and Ex..."
+      }
+    ]
+  }
+]

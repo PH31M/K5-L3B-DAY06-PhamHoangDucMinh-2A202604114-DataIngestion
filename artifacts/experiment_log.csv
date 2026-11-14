@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,500,50,"section,year,chapter",none,openai/text-embedding-3-small (1536),Baseline fixed window chunking with overlap,10/16,12/16,0/6,1/6,"chunks=169, time=9.61s, cost=~$0.0003"
+B,paragraph,800,0,"section,year,chapter",none,openai/text-embedding-3-small (1536),Paragraph boundary chunking preserving semantic units,11/16,13/16,2/6,5/6,"chunks=108, time=6.22s, cost=~$0.0002"
+C,paragraph,800,0,"section,year,chapter",section,openai/text-embedding-3-small (1536),Paragraph chunking + metadata filtering on section,11/16,13/16,2/6,5/6,"chunks=108, time=0.07s, cost=$0.00 (reused)"

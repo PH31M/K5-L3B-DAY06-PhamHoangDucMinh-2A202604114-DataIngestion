@@ -1,0 +1,89 @@
+{
+  "strategy_a": {
+    "dev": {
+      "total": 16,
+      "hit_at_1_count": 10,
+      "hit_at_1_ratio": "10/16",
+      "hit_at_1_pct": 62.5,
+      "hit_at_3_count": 12,
+      "hit_at_3_ratio": "12/16",
+      "hit_at_3_pct": 75.0
+    },
+    "test": {
+      "total": 6,
+      "hit_at_1_count": 0,
+      "hit_at_1_ratio": "0/6",
+      "hit_at_1_pct": 0.0,
+      "hit_at_3_count": 1,
+      "hit_at_3_ratio": "1/6",
+      "hit_at_3_pct": 16.67
+    },
+    "all": {
+      "total": 22,
+      "hit_at_1_count": 10,
+      "hit_at_1_ratio": "10/22",
+      "hit_at_1_pct": 45.45,
+      "hit_at_3_count": 13,
+      "hit_at_3_ratio": "13/22",
+      "hit_at_3_pct": 59.09
+    }
+  },
+  "strategy_b": {
+    "dev": {
+      "total": 16,
+      "hit_at_1_count": 11,
+      "hit_at_1_ratio": "11/16",
+      "hit_at_1_pct": 68.75,
+      "hit_at_3_count": 13,
+      "hit_at_3_ratio": "13/16",
+      "hit_at_3_pct": 81.25
+    },
+    "test": {
+      "total": 6,
+      "hit_at_1_count": 2,
+      "hit_at_1_ratio": "2/6",
+      "hit_at_1_pct": 33.33,
+      "hit_at_3_count": 5,
+      "hit_at_3_ratio": "5/6",
+      "hit_at_3_pct": 83.33
+    },
+    "all": {
+      "total": 22,
+      "hit_at_1_count": 13,
+      "hit_at_1_ratio": "13/22",
+      "hit_at_1_pct": 59.09,
+      "hit_at_3_count": 18,
+      "hit_at_3_ratio": "18/22",
+      "hit_at_3_pct": 81.82
+    }
+  },
+  "strategy_c": {
+    "dev": {
+      "total": 16,
+      "hit_at_1_count": 11,
+      "hit_at_1_ratio": "11/16",
+      "hit_at_1_pct": 68.75,
+      "hit_at_3_count": 13,
+      "hit_at_3_ratio": "13/16",
+      "hit_at_3_pct": 81.25
+    },
+    "test": {
+      "total": 6,
+      "hit_at_1_count": 2,
+      "hit_at_1_ratio": "2/6",
+      "hit_at_1_pct": 33.33,
+      "hit_at_3_count": 5,
+      "hit_at_3_ratio": "5/6",
+      "hit_at_3_pct": 83.33
+    },
+    "all": {
+      "total": 22,
+      "hit_at_1_count": 13,
+      "hit_at_1_ratio": "13/22",
+      "hit_at_1_pct": 59.09,
+      "hit_at_3_count": 18,
+      "hit_at_3_ratio": "18/22",
+      "hit_at_3_pct": 81.82
+    }
+  }
+}

@@ -20,6 +20,24 @@ class PgVectorStore:
                 # 1. Bật extension pgvector
                 cur.execute("CREATE EXTENSION IF NOT EXISTS vector;")
 
+                # Kiểm tra nếu bảng đã tồn tại nhưng khác số chiều vector thì drop để tạo lại đúng schema
+                cur.execute("""
+                    SELECT EXISTS (
+                        SELECT FROM information_schema.tables 
+                        WHERE table_name = 'document_chunks'
+                    );
+                """)
+                exists = cur.fetchone()[0]
+                if exists:
+                    cur.execute("""
+                        SELECT format_type(atttypid, atttypmod) 
+                        FROM pg_attribute 
+                        WHERE attrelid = 'document_chunks'::regclass AND attname = 'embedding';
+                    """)
+                    row = cur.fetchone()
+                    if row and row[0] != f"vector({self.dimensions})":
+                        cur.execute("DROP TABLE document_chunks CASCADE;")
+
                 # 2. Tạo bảng lưu trữ chunk với vector đúng số chiều dimensions
                 cur.execute(f"""
                     CREATE TABLE IF NOT EXISTS document_chunks (
@@ -58,7 +76,7 @@ class PgVectorStore:
                 # Chuẩn bị dữ liệu dạng tuple để chèn batch tối ưu tốc độ
                 records = [
                     (
-                        c.chunk_id,
+                        f"{strategy}_{c.chunk_id}" if not c.chunk_id.startswith(f"{strategy}_") else c.chunk_id,
                         strategy,
                         c.document_id,
                         c.source,
