@@ -1,0 +1,222 @@
+[
+  {
+    "location": 1,
+    "page": 75,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p75_c000",
+      "score": 0,
+      "snippet_end": "al shocks can be more difficult to absorb when gov",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p75_b000",
+      "score": 1,
+      "snippet_end": "s interact with already-high debt burdens. Adverse",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p75_b000",
+      "score": 1,
+      "snippet_end": "s interact with already-high debt burdens. Adverse",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    }
+  },
+  {
+    "location": 2,
+    "page": 76,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p76_c000",
+      "score": 0,
+      "snippet_end": "onomist Intelligence Unit country reports. The Glo",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p76_b000",
+      "score": 2,
+      "snippet_end": "lue in 2000 equals 100. Data shown through 2026Q2.",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p76_b000",
+      "score": 2,
+      "snippet_end": "lue in 2000 equals 100. Data shown through 2026Q2.",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 3,
+    "page": 77,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p77_c000",
+      "score": 1,
+      "snippet_end": " economies are more vulnerable to shifts in demand",
+      "reason": "Giu duoc tu nhung bi cat menh de giua chung."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p77_b000",
+      "score": 2,
+      "snippet_end": "rtant for the transmission of external shocks. For",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p77_b000",
+      "score": 2,
+      "snippet_end": "rtant for the transmission of external shocks. For",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 4,
+    "page": 78,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p78_c000",
+      "score": 0,
+      "snippet_end": " can increase when external shocks lead to currenc",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p78_b000",
+      "score": 2,
+      "snippet_end": "lobal financial conditions, LMICs with high levels",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p78_b000",
+      "score": 2,
+      "snippet_end": "lobal financial conditions, LMICs with high levels",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 5,
+    "page": 79,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p79_c000",
+      "score": 0,
+      "snippet_end": "ition, as presented in chapter 1, external debt st",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p79_b000",
+      "score": 1,
+      "snippet_end": "example, global supply shocks, including shortages",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p79_b000",
+      "score": 1,
+      "snippet_end": "example, global supply shocks, including shortages",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    }
+  },
+  {
+    "location": 6,
+    "page": 80,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p80_c000",
+      "score": 0,
+      "snippet_end": " also risen, from 2.7 percent according to preconf",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p80_b000",
+      "score": 2,
+      "snippet_end": "mmodity-importing LMICs increased from 7.0 percent",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p80_b000",
+      "score": 2,
+      "snippet_end": "mmodity-importing LMICs increased from 7.0 percent",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 7,
+    "page": 81,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p81_c000",
+      "score": 0,
+      "snippet_end": "ity-importing low- and middle-income countries wit",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p81_b000",
+      "score": 2,
+      "snippet_end": "orsening trade balances. Among commodity-importing",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p81_b000",
+      "score": 2,
+      "snippet_end": "orsening trade balances. Among commodity-importing",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 8,
+    "page": 82,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p82_c000",
+      "score": 0,
+      "snippet_end": "repayment capacity, sovereign risk premiums increa",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p82_b000",
+      "score": 1,
+      "snippet_end": "banking sector, along with a rise in nonperforming",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p82_b000",
+      "score": 1,
+      "snippet_end": "banking sector, along with a rise in nonperforming",
+      "reason": "Bao toan cau nhung la cau chuyen y can them ngu canh tiep theo."
+    }
+  },
+  {
+    "location": 9,
+    "page": 83,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p83_c000",
+      "score": 1,
+      "snippet_end": "porting LMICs have adopted such frameworks (figure",
+      "reason": "Giu duoc tu nhung bi cat menh de giua chung."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p83_b000",
+      "score": 2,
+      "snippet_end": "ding on the strength of institutional capacity and",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p83_b000",
+      "score": 2,
+      "snippet_end": "ding on the strength of institutional capacity and",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  },
+  {
+    "location": 10,
+    "page": 84,
+    "strategy_a": {
+      "chunk_id": "bookdata_01_p84_c000",
+      "score": 0,
+      "snippet_end": "ed on expenditure, revenue, budget balance, or deb",
+      "reason": "Bi cat ngang tu hoac cum tu o gioi han 500 ky tu."
+    },
+    "strategy_b": {
+      "chunk_id": "bookdata_01_p84_b000",
+      "score": 2,
+      "snippet_end": " jobs, and advance broader development objectives.",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    },
+    "strategy_c": {
+      "chunk_id": "bookdata_01_p84_b000",
+      "score": 2,
+      "snippet_end": " jobs, and advance broader development objectives.",
+      "reason": "Ranh gioi doan van/cau duoc bao toan tron ven, tu hieu duoc doc lap."
+    }
+  }
+]

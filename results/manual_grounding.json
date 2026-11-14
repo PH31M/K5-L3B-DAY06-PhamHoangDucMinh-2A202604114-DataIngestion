@@ -1,0 +1,104 @@
+[
+  {
+    "question_id": "q17",
+    "question": "What external disruptions make economies that rely heavily on imports of goods and services especially vulnerable?",
+    "gold_page": 77,
+    "strategy_a": {
+      "score": 0,
+      "reason": "Top-3 không chứa trang 77 (trả về trang 79, 76, 95), hoàn toàn không có bằng chứng."
+    },
+    "strategy_b": {
+      "score": 2,
+      "reason": "Rank 2 trả về trang 77 chứa trọn vẹn bằng chứng về đứt gãy nguồn cung, hạn chế xuất khẩu và thiếu hụt sản lượng."
+    },
+    "strategy_c": {
+      "score": 2,
+      "reason": "Rank 2 trả về trang 77 chứa đầy đủ thông tin trả lời độc lập."
+    }
+  },
+  {
+    "question_id": "q18",
+    "question": "How do drops in global commodity prices adversely affect commodity-exporting LMICs?",
+    "gold_page": 82,
+    "strategy_a": {
+      "score": 2,
+      "reason": "Rank 3 trả về trang 82 chứa đoạn trích về tác động trực tiếp và gián tiếp của giá hàng hóa giảm."
+    },
+    "strategy_b": {
+      "score": 2,
+      "reason": "Rank 2 trả về trang 82 đầy đủ trọn vẹn ngữ cảnh đoạn văn."
+    },
+    "strategy_c": {
+      "score": 2,
+      "reason": "Rank 2 trả về trang 82 đầy đủ trọn vẹn ngữ cảnh đoạn văn."
+    }
+  },
+  {
+    "question_id": "q19",
+    "question": "What global events after the pandemic shock contributed to elevated financing needs in IDA countries?",
+    "gold_page": 86,
+    "strategy_a": {
+      "score": 1,
+      "reason": "Rank 3 có trang 86 nhưng chunk 500 bị cắt đứt giữa chừng, chỉ nhắc tới một phần cú sốc, thiếu điều kiện đầy đủ."
+    },
+    "strategy_b": {
+      "score": 2,
+      "reason": "Rank 3 chứa đầy đủ đoạn văn nêu rõ cú sốc lạm phát/hàng hóa hậu chiến tranh Ukraine và chính sách thắt chặt tiền tệ 2022."
+    },
+    "strategy_c": {
+      "score": 2,
+      "reason": "Rank 3 chứa đầy đủ bằng chứng trả lời."
+    }
+  },
+  {
+    "question_id": "q20",
+    "question": "In the section on fiscal pressures and consolidation, how long did countries typically delay meaningful consolidation when facing primary deficits far above debt-stabilizing levels?",
+    "gold_page": 93,
+    "strategy_a": {
+      "score": 1,
+      "reason": "Rank 1 trang 93 bị cắt cụm chủ ngữ, chỉ còn đoạn số năm lửng lơ, thiếu điều kiện thâm hụt cơ bản."
+    },
+    "strategy_b": {
+      "score": 2,
+      "reason": "Rank 1 trang 93 giữ trọn vẹn câu: thâm hụt lớn hơn mức ổn định nợ thì trì hoãn 3-4 năm."
+    },
+    "strategy_c": {
+      "score": 2,
+      "reason": "Rank 1 trang 93 tuân thủ filter section fiscal_pressures và giữ nguyên câu bằng chứng hoàn chỉnh."
+    }
+  },
+  {
+    "question_id": "q21",
+    "question": "What specific reserve mechanisms and financial instruments can governments put in place in advance to mitigate immediate post-disaster fiscal impacts?",
+    "gold_page": 95,
+    "strategy_a": {
+      "score": 1,
+      "reason": "Rank 1 trang 95 bị cắt đứt phần dự phòng ngân sách, chỉ còn phần sau về công cụ nợ phụ thuộc trạng thái."
+    },
+    "strategy_b": {
+      "score": 2,
+      "reason": "Rank 1 trang 95 chứa đầy đủ 3 giải pháp: dự phòng ngân sách hàng năm, quỹ thiên tai, và công cụ nợ chuyển giao rủi ro."
+    },
+    "strategy_c": {
+      "score": 2,
+      "reason": "Rank 1 trang 95 chứa đầy đủ 3 giải pháp bảo vệ tài khóa."
+    }
+  },
+  {
+    "question_id": "q22",
+    "question": "In the context of food import exposure and debt burdens, which specific nutritional food groups exhibit lower import source diversity when external debt relative to exports is high?",
+    "gold_page": 100,
+    "strategy_a": {
+      "score": 1,
+      "reason": "Rank 1 trang 100 bị chia cắt câu, mất nhóm lương thực chính (starchy staples)."
+    },
+    "strategy_b": {
+      "score": 1,
+      "reason": "Rank 3 trang 100 chỉ trích xuất được nửa sau câu đối chiếu, thiếu nửa đầu danh sách nhóm thực phẩm."
+    },
+    "strategy_c": {
+      "score": 1,
+      "reason": "Filter loại bỏ trang 95 nhưng đoạn văn bản nguồn vẫn bị tách tại điểm ngắt ký tự, chỉ chứa nửa sau."
+    }
+  }
+]
